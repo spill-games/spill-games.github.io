@@ -614,6 +614,15 @@ a,
   background-color: rgba(66, 26, 107, 0.9);
 }
 
+@media (min-width: 768px) {
+.navbar-center
+{
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+}
+
 .landing-reason {
   color: #fff;
   font-size: 13px;
