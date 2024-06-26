@@ -1,6 +1,6 @@
 /**
  * Hash Plugin
- * @version 2.3.4
+ * @version 2.1.0
  * @author Artus Kolanowski
  * @author David Deutsch
  * @license The MIT License (MIT)
