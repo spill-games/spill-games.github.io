@@ -920,6 +920,12 @@ blockquote {
   letter-spacing: 1px;
 }
 
+.font-alt-5 {
+  font-family: "Libre Franklin", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+}
+
 .font-bold {
   font-weight: 700;
 }
