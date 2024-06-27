@@ -902,6 +902,24 @@ blockquote {
   letter-spacing: 2px;
 }
 
+.font-alt-2 {
+  font-family: "Lilita One", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+
+.font-alt-3 {
+  font-family: "Libre Franklin", sans-serif;
+  font-weight: 400;
+}
+
+.font-alt-4 {
+  font-family: "Libre Franklin", sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
 .font-bold {
   font-weight: 700;
 }
