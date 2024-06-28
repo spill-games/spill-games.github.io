@@ -926,6 +926,14 @@ blockquote {
   font-size: 15px;
 }
 
+.font-alt-6 {
+  font-family: "Lilita One", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 400;
+  color: black;
+}
+
 .font-bold {
   font-weight: 700;
 }
