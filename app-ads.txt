@@ -1386,3 +1386,5 @@ zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135703,RESELLER
 zmaticoo.com,5135704,RESELLER
 zoomd.com,88478941,RESELLER
+pangleglobal.com, Account ID, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
