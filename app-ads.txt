@@ -224,6 +224,7 @@ bidmachine.io,74,RESELLER
 bidmachine.io,77,RESELLER
 bigo.sg,1011110,RESELLER
 bigo.sg,109,RESELLER
+bigo.sg,1112518,reseller
 bigo.sg,1203,RESELLER
 bigo.sg,122,RESELLER
 bigo.sg,128,RESELLER
@@ -314,6 +315,7 @@ digitalturbine.com,221376,RESELLER
 display.io,173162,RESELLER
 districtm.io,101649,RESELLER,3fd707be9c4527c3
 e-planning.net,081dcb996d2ccc1e,RESELLER,c1ba615865ed87b2
+e-planning.net,608359bb987625b2,RESELLER,c1ba615865ed87b2
 e-planning.net,79686787743ddfc5,RESELLER,c1ba615865ed87b2
 e-planning.net,864690bcd16cd011,RESELLER,c1ba615865ed87b2
 e-planning.net,9522026ef023606d,RESELLER,c1ba615865ed87b2
@@ -354,6 +356,8 @@ freewheel.tv,1600180,RESELLER
 freewheel.tv,1600214,RESELLER
 freewheel.tv,1601610,RESELLER
 freewheel.tv,1601613,RESELLER
+freewheel.tv,1606620,RESELLER
+freewheel.tv,1606633,RESELLER
 freewheel.tv,741650,RESELLER
 Freewheel.tv,741650,RESELLER
 fromthetop.io,65529,RESELLER
@@ -566,6 +570,7 @@ lijit.com,491737,RESELLER,fafdf38b16bf6b2b
 lijit.com,500520,RESELLER,fafdf38b16bf6b2b
 lijit.com,502742,RESELLER,fafdf38b16bf6b2b
 lijit.com,503707,RESELLER,fafdf38b16bf6b2b
+lijit.com,511365,RESELLER,fafdf38b16bf6b2b
 lijit.com,512908,RESELLER,fafdf38b16bf6b2b
 lkqd.net,450,RESELLER,59c49fa9598a0117
 lkqd.net,647,RESELLER,59c49fa9598a0117
@@ -598,6 +603,7 @@ lunamedia.io,464b5a3a-b155-4f05-8953-9f6cd192d932,RESELLER,524ecb396915caaf
 lunamedia.io,95ed51edc1cb499baaf3476fcb6fa463,RESELLER,524ecb396915caaf
 lunamedia.io,b82743ba2ddf4bcaab3d1d4f91b1330e,RESELLER,524ecb396915caaf
 lunamedia.io,e6052bf0717e11eda1b0b561fab79f1a,RESELLER,524ecb396915caaf
+magicmedia.ae,6f828808,RESELLER
 markappmedia.site,587286,RESELLER
 markappmedia.site,587286,RESELLER,1ddf21e4cc2e32a1
 mars.media,1010380,RESELLER,8624339f102fb076
@@ -660,6 +666,7 @@ onetag.com,73720b89bbda622,RESELLER
 onetag.com,7519b266468320e,RESELLER
 onetag.com,7ba1175dffb3110,RESELLER
 onetag.com,8668c16092f01e8,RESELLER
+onetag.com,8d4bbebb8fa701e,RESELLER
 onlinemediasolutions.com,20498,RESELLER
 onlinemediasolutions.com,23120,RESELLER
 onlinemediasolutions.com,29556,RESELLER
@@ -721,6 +728,7 @@ peak226.com,12400,RESELLER
 peak226.com,12700,RESELLER
 peak226.com,12900,RESELLER
 peak226.com,12901,RESELLER
+peak226.com,12904,RESELLER
 playdigo.com,1965,RESELLER,92011346d63d3c30
 playdigo.com,1993,RESELLER
 playwire.com,1018531,RESELLER
@@ -982,6 +990,7 @@ rubiconproject.com,26292,RESELLER,0bfd66d529a55807
 rubiconproject.com,26386,RESELLER,0bfd66d529a55807
 rubiconproject.com,26510,RESELLER,0bfd66d529a55807
 sabio.us,100032,RESELLER,96ed93aaa9795702
+sabio.us,100071,RESELLER,96ed93aaa9795702
 saharmedia.net,1683858,RESELLER
 se7en.es,212430,RESELLER,064bc410192443d8
 se7en.es,212450,RESELLER,064bc410192443d8
@@ -1204,6 +1213,7 @@ toponad.com,165535463cfb70,RESELLER,1d49fe424a1a456d
 toponad.com,1661f80179644e,RESELLER,1d49fe424a1a456d
 tpmn.io,415,RESELLER
 tpmn.io,532,RESELLER
+tredio.io,357a6fdf7642bf815a88822c447d9dc432901,RESELLER
 tredio.io,357a6fdf7642bf815a88822c447d9dc433546,RESELLER
 tremorhub.com,9l6ha-9w3wc,RESELLER,1a4e959a1b50034a
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -1312,6 +1322,7 @@ visiblemeasures.com,1020,RESELLER
 voisetech.com,1023,RESELLER
 vungle.com,561e8d956b8d90f61a003219,RESELLER,c107d686becd2d77
 vungle.com,66736c6e39a54a00112909ba,DIRECT,c107d686becd2d77
+waardex.com,99236,RESELLER
 webeyemob.com,70098,DIRECT
 webeyemob.com,70098,RESELLER
 webeyemob.com,70100,RESELLER
@@ -1359,6 +1370,7 @@ yahoo.com,59244,RESELLER
 yahoo.com,59262,RESELLER,e1a5b5b6e3255540
 yahoo.com,59318,RESELLER,e1a5b5b6e3255540
 yahoo.com,59627,RESELLER
+yandex.com,302446435,reseller
 yandex.com,63904735,RESELLER
 yandex.com,94923424,RESELLER
 yandex.com,95746987,RESELLER
@@ -1386,5 +1398,3 @@ zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135703,RESELLER
 zmaticoo.com,5135704,RESELLER
 zoomd.com,88478941,RESELLER
-pangleglobal.com, Account ID, DIRECT
-pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
