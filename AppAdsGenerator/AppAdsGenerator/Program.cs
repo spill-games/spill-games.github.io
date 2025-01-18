@@ -16,7 +16,7 @@ foreach (var file in dataSourcesTextFiles)
         {
             continue;
         }
-        result.Add(text.Trim().Replace(", ", ","));
+        result.Add(text);
     }
 }
 result.Sort();
