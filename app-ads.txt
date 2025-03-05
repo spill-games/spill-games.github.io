@@ -424,6 +424,8 @@ freewheel.tv, 1220655, RESELLER
 freewheel.tv, 1235183, RESELLER
 freewheel.tv, 1235279, RESELLER
 freewheel.tv, 1585279, RESELLER
+freewheel.tv, 1599106, RESELLER
+freewheel.tv, 1599109, RESELLER
 freewheel.tv, 1601610, RESELLER
 freewheel.tv, 1601613, RESELLER
 freewheel.tv, 1606620, reseller
