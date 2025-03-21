@@ -1,0 +1,13 @@
+# https://docs.google.com/spreadsheets/d/1RPdMkpQHlqu_1mVcU-Q04CMHjZ02KmfN38vsZlM8M8c/edit?gid=0#gid=0
+
+thejungletechnology.com, 160961, DIRECT
+adyugo.com, 160961, DIRECT
+google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
+adingo.jp, 32401, RESELLER
+smartadserver.com, 4938, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4938-OB, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 164927, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164928,  RESELLER, 5d62403b186f2ace
+lijit.com, 509119, RESELLER, fafdf38b16bf6b2b
+lijit.com, 509119-eb, RESELLER, fafdf38b16bf6b2b
+appnexus.com, 9529, RESELLER

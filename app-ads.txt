@@ -53,6 +53,7 @@ adiiix.com,db716a4c,RESELLER
 adiiix.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
 adingenious.com, 75036, RESELLER
 adingo.jp, 31054, RESELLER
+adingo.jp, 32401, RESELLER
 adingo.jp,31054,RESELLER
 admanmedia.com, 2050, RESELLER
 admanmedia.com, 2063, RESELLER
@@ -111,6 +112,7 @@ adx-dre.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
 adyoulike.com,78afbc34fac571736717317117dfa247,RESELLER
 adyoulike.com,994b7b4e03898048761c7110f11e56c2,RESELLER
+adyugo.com, 160961, DIRECT
 algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 algorix.co, 54400, RESELLER, 5b394c12fea27a1d
 algorix.co, 54510, RESELLER, 5b394c12fea27a1d
@@ -187,6 +189,7 @@ appnexus.com, 6849, RESELLER
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9529, RESELLER
 appnexus.com, 9569, RESELLER
 appnexus.com,11664,RESELLER
 appnexus.com,11826,RESELLER
@@ -467,6 +470,7 @@ google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
 google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
+google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
 google.com,pub-1186731530376692,RESELLER,f08c47fec0942fa0
 google.com,pub-1610783026453769,RESELLER,f08c47fec0942fa0
 google.com,pub-1973560607649234,RESELLER,f08c47fec0942fa0
@@ -688,6 +692,8 @@ lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
 lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
+lijit.com, 509119-eb, RESELLER, fafdf38b16bf6b2b
+lijit.com, 509119, RESELLER, fafdf38b16bf6b2b
 lijit.com, 512908, RESELLER, fafdf38b16bf6b2b
 lijit.com, 516975, RESELLER, fafdf38b16bf6b2b
 lijit.com, 528054, RESELLER, fafdf38b16bf6b2b
@@ -1011,6 +1017,8 @@ pubmatic.com, 164532, RESELLER, 5d62403b186f2
 pubmatic.com, 164532, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164602, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164927, RESELLER, 5d62403b186f2ace
+pubmatic.com, 164928,  RESELLER, 5d62403b186f2ace
 pubmatic.com, 165116, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165329, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165340, RESELLER, 5d62403b186f2ace
@@ -1357,6 +1365,8 @@ smartadserver.com, 4610, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4625, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4762, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4938-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4938, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5026, RESELLER, 060d053dcf45cbf3
 smartadserver.com,1692,RESELLER
 smartadserver.com,3020,RESELLER,060d053dcf45cbf3
@@ -1485,6 +1495,7 @@ thebrave.io,1234632,RESELLER,c25b2154543746ac
 thebrave.io,1234633,RESELLER,c25b2154543746ac
 thebrave.io,1234634,RESELLER,c25b2154543746ac
 thebrave.io,9840732,RESELLER,c25b2154543746ac
+thejungletechnology.com, 160961, DIRECT
 themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
