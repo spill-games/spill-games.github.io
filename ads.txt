@@ -10,6 +10,7 @@ Blis.com, 33, RESELLER, 61453ae19a4b73f4
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
 blis.com, 33, RESELLER, 61453ae19a4b73f4
 pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
+axonix.com, 57716, RESELLER
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
 Se7en.es, 212430, RESELLER, 064bc410192443d8
 gamaigroup.com, 320201, RESELLER
@@ -21,5 +22,3 @@ admanmedia.com, 2063, RESELLER
 themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
 video.unrulymedia.com, 188404962, RESELLER
 contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
-openx.com, 539214772, RESELLER, 6a698e2ec38604c6
-facebook.com, 902616681710566, RESELLER, c3e20eee3f780d68
