@@ -49,7 +49,6 @@ adform.com, 716, DIRECT
 adform.com, 716, RESELLER
 adform.com,2671,RESELLER
 adform.com,2742,RESELLER
-Adform.com,2742,RESELLER
 adform.com,3083,RESELLER
 adform.com,3119,RESELLER,9f5210a2f0999e32
 adiiix.com, 3de5db9, RESELLER
@@ -400,7 +399,6 @@ contextweb.com, 563017, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563079, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563195, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563217, RESELLER, 89ff185a4c4e857c
-Contextweb.com, 563217, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
 Contextweb.com, 563285, RESELLER, 89ff185a4c4e857c
 contextweb.com, 563321, RESELLER, 89ff185a4c4e857c
@@ -519,11 +517,8 @@ freewheel.tv, 1601388, RESELLER
 freewheel.tv, 1601610, RESELLER
 freewheel.tv, 1601613, RESELLER
 freewheel.tv, 1606620, reseller
-freewheel.tv, 1606620, RESELLER
 freewheel.tv, 1606633, reseller
-freewheel.tv, 1606633, RESELLER
 freewheel.tv, 741650, RESELLER
-Freewheel.tv, 741650, RESELLER
 freewheel.tv,1137745,RESELLER
 freewheel.tv,1138513,RESELLER
 freewheel.tv,1157729,RESELLER
@@ -782,7 +777,6 @@ kidoz.net,15127,RESELLER,a109366414b7335e
 krushmedia.com, AJxF6R192a9M6CaTvK, DIRECT
 krushmedia.com, AJxF6R192a9M6CaTvK, RESELLER
 krushmedia.com, ajxf6R585a9m6Catvk, RESELLER
-krushmedia.com, AJxF6R585a9M6CaTvK, RESELLER
 kubient.com, 5e2cb089c866, RESELLER, 4f12311e6ed900a3
 lacunads.com, LC136f79e999464edc, RESELLER
 lacunads.com, LC7dc692567a127a57, DIRECT
@@ -805,7 +799,6 @@ lijit.com, 443291, RESELLER, fafdf38b16bf6b2b
 lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
 lijit.com, 473789, RESELLER, fafdf38b16bf6b2b
 lijit.com, 481366, Reseller, fafdf38b16bf6b2b
-lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
 lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
 lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
@@ -813,7 +806,6 @@ lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
-lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
 lijit.com, 509119-eb, RESELLER, fafdf38b16bf6b2b
 lijit.com, 509119, RESELLER, fafdf38b16bf6b2b
 lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
@@ -900,7 +892,6 @@ mars.media,1010463,RESELLER,8624339f102fb076
 mars.media,107876,RESELLER,8624339f102fb076
 max-mobi.com, 11456, RESELLER, 6c4d5f85197a5b3c
 media.net, 8cu12aq1y, RESELLER
-media.net, 8CU12AQ1Y, RESELLER
 media.net, 8CU5L226O, RESELLER
 media.net, 8CU76268D, RESELLER
 media.net, 8CU813E2H, RESELLER
@@ -1166,11 +1157,9 @@ pubmatic.com, 162402, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162449, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
-Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163038, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
-Pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163558, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163652, RESELLER, 5d62403b186f2ace
@@ -1250,10 +1239,8 @@ pubmatic.com,162099,RESELLER,5d62403b186f2ace
 pubmatic.com,162161,RESELLER,5d62403b186f2ace
 pubmatic.com,162223,RESELLER,5d62403b186f2ace
 pubmatic.com,162882,RESELLER,5d62403b186f2ace
-Pubmatic.com,162882,RESELLER,5d62403b186f2ace
 pubmatic.com,162974,RESELLER,5d62403b186f2ace
 pubmatic.com,163319,RESELLER,5d62403b186f2ace
-Pubmatic.com,163319,RESELLER,5d62403b186f2ace
 pubmatic.com,163476,RESELLER,5d62403b186f2ace
 pubmatic.com,164532,RESELLER,5d62403b186f2ace
 pubmatic.com,165117,RESELLER,5d62403b186f2ace
@@ -2020,7 +2007,6 @@ xandr.com,17417,RESELLER,f5ab79cb980f11d1
 xandr.com,7353,RESELLER,f5ab79cb980f11d1
 xandr.com,8804,RESELLER,f5ab79cb980f11d1
 xapads.com, 117219, RESELLER
-Xapads.com, 117219, RESELLER
 Xapads.com, 155860, RESELLER
 xapads.com,117219,RESELLER
 yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, RESELLER
