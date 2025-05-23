@@ -269,6 +269,7 @@ appsheep.com, c777b24110cc46d0a8e1245342c6c919, RESELLER
 appsheep.com, fc7556810c904b029cd14668a5ee42e3, RESELLER
 appsheep.com,3a930d9b024c457d966d480b3421e3dd,RESELLER
 aps.amazon.com,1ebcb2cb-e55f-4c08-94a0-e79fe207a5b6,RESELLER
+aps.amazon.com,c581afbf-1c21-414a-bc75-cca4502836b4,DIRECT
 aralego.com, par-8A2AD843B76A2B93CB24D4B7D694B67E, RESELLER
 aralego.com, par-9A2627866DA4BBE4F4AA4A67A3DDE686, RESELLER
 aralego.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
@@ -574,6 +575,7 @@ google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
 google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
+google.com, pub-6716225838534735, RESELLER, f08c47fec0942fa0
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 google.com, pub-9685734445476814, RESELLER, f08c47fec0942fa0
 google.com, pub-9911740406682987, RESELLER, f08c47fec0942fa0
@@ -782,6 +784,7 @@ inmobi.com,ec6f6ceb8bb1440ba5455644ec96c275,RESELLER,83e75a7ae333ca9d
 inmobi.com,f3924290136e4129a5c082ff982c3a58,RESELLER,83e75a7ae333ca9d
 inmobi.com,f71b28e30a8249c3b08a9bca1a5cfbb7,RESELLER,83e75a7ae333ca9d
 instal.com,5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644,RESELLER
+INVENTORYPARTNERDOMAIN=thegermanemedia.com	
 iqzone.com, IQ87, RESELLER
 iqzone.com,IQ39,RESELLER
 iqzone.com,IQ87,RESELLER
@@ -838,6 +841,7 @@ lijit.com, 500520, RESELLER, fafdf38b16bf6b2b
 lijit.com, 502284, RESELLER, fafdf38b16bf6b2b
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+lijit.com, 509119-eb, DIRECT, fafdf38b16bf6b2b
 lijit.com, 509119-eb, RESELLER, fafdf38b16bf6b2b
 lijit.com, 509119, RESELLER, fafdf38b16bf6b2b
 lijit.com, 511365, RESELLER, fafdf38b16bf6b2b
@@ -912,6 +916,7 @@ lunamedia.io, e6052bf0717e11eda1b0b561fab79f1a, RESELLER, 524ecb396915caaf
 lunamedia.io,95ed51edc1cb499baaf3476fcb6fa463,RESELLER,524ecb396915caaf
 lunamedia.io,b82743ba2ddf4bcaab3d1d4f91b1330e,RESELLER,524ecb396915caaf
 magicmedia.ae, 6f828808, RESELLER
+MANAGERDOMAIN=thegermanemedia.com
 mango.mp, 320498, RESELLER
 mango.mp, 323120, RESELLER
 markappmedia.site, 587286, RESELLER
@@ -1005,6 +1010,7 @@ onetag.com, 7519b266468320e, RESELLER
 onetag.com, 7ba1175dffb3110, RESELLER
 onetag.com, 82e44d118b79600, DIRECT
 onetag.com, 8668c16092f01e8, RESELLER
+onetag.com, 894a7df6a5f7180-OB, DIRECT
 onetag.com, 8c90176af2e65c8, RESELLER
 onetag.com, 8d4bbebb8fa701e, RESELLER
 onetag.com, 8dd8de7f341d57e, RESELLER
@@ -1807,6 +1813,7 @@ thebrave.io,1234632,RESELLER,c25b2154543746ac
 thebrave.io,1234633,RESELLER,c25b2154543746ac
 thebrave.io,1234634,RESELLER,c25b2154543746ac
 thebrave.io,9840732,RESELLER,c25b2154543746ac
+thegermanemedia.com, 747, DIRECT
 thejungletechnology.com, 160961, DIRECT
 themediagrid.com, 7MYRZ3, RESELLER, 35d5010d7789b49d
 themediagrid.com, A6CWLO, RESELLER, 35d5010d7789b49d

@@ -5,6 +5,10 @@ var dataSourcesTextFiles = Directory.GetFiles(dataSourcesPath);
 var result = new List<string>();
 foreach (var file in dataSourcesTextFiles)
 {
+    if (!file.EndsWith(".txt"))
+    {
+        continue;
+    }
     var textsFromFile = File.ReadLines(file);
     foreach (var text in textsFromFile)
     {
