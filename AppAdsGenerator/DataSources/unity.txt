@@ -1,4 +1,5 @@
 # https://cloud.unity.com/home/organizations/13469684949481/monetization/organization-settings
+ownerdomain=spill.games
 
 33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
 

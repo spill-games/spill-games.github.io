@@ -1113,6 +1113,7 @@ outbrain.com, 009003959a5821f830a09d0bc562b43c62, RESELLER
 outbrain.com, 00a7a621155a60e5a12298c11790e00a60, RESELLER
 outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
+ownerdomain=spill.games
 OWNERDOMAIN=spill.games
 pangleglobal.com, 45779, RESELLER
 pangleglobal.com, 5021094, DIRECT
