@@ -90,3 +90,7 @@ bematterfull.com, 111399861, RESELLER
 iion.io, 10171, RESELLER, 013a29748465dc57
 adingenious.com, 75036, RESELLER
 themediasense.com, 1147, RESELLER
+adingenious.com, 75036, RESELLER
+apester.com, 2212, RESELLER
+myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
+hindsightsolutions.net, HSINMOBI100000, RESELLER
