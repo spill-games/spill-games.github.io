@@ -1,2 +1,4 @@
+# https://www.pangleglobal.com/integration/app-ads-txt
+
 pangleglobal.com, 5021094, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace

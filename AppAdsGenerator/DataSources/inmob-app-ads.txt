@@ -1,4 +1,4 @@
-# https://publisher.inmobi.com/my-account/app-adstxt
+# https://publisher.inmobi.com/ads-txt/app-ads
 
 inmobi.com, cd92d65609d84b078c886a9b9f7ddad0, DIRECT, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
@@ -79,17 +79,9 @@ mman.kr, 32102, RESELLER
 adtonos.com, PUB2356156682, RESELLER
 sonobi.com, 45dd948092, RESELLER, d1a215d9eb5aee9e
 mindtos.com, mt45eb5f865ce39e1b, RESELLER
-iqzone.com, IQ87, RESELLER
-markappmedia.site, 587286, RESELLER
-orangeclickmedia.com, C-1034, RESELLER
-carbonatix.com, 141073554, RESELLER
 eliteappgrade.com, 514554, RESELLER
-bold-win.com, 148, RESELLER, 71746737d0bab951
 fromthetop.io, 65529, RESELLER
-bematterfull.com, 111399861, RESELLER
 iion.io, 10171, RESELLER, 013a29748465dc57
-adingenious.com, 75036, RESELLER
-themediasense.com, 1147, RESELLER
 adingenious.com, 75036, RESELLER
 apester.com, 2212, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER

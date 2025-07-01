@@ -1,1 +1,4 @@
+# https://developers.facebook.com/docs/audience-network/optimization/best-practices/authorized-sellers-app-ads/
+
 facebook.com, 902616681710566, RESELLER, c3e20eee3f780d68
+facebook.com, 1362194188418181, RESELLER, c3e20eee3f780d68

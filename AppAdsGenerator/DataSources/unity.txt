@@ -584,3 +584,14 @@ lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
 themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
 
 ushareit.com, LCb555b3bc8667a09a, RESELLER
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+copper6.com, 766114, RESELLER
+xandr.com, 16546, RESELLER
+taurusx.com, 80635, RESELLER
+video.unrulymedia.com, 389957698, RESELLER
+improvedigital.com, 2534, RESELLER
+google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
+pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 26360, RESELLER, 0bfd66d529a55807
+improvedigital.com, 2609, RESELLER
+advertising.com, 82632, RESELLER
