@@ -42,6 +42,7 @@ adelement.com, 30018, RESELLER
 adelement.com, 30019, RESELLER
 adelement.com, 30020, RESELLER
 adelement.com, 36001, RESELLER
+adelement.com, 36004, RESELLER
 adelement.com,101,RESELLER
 adelement.com,30167,RESELLER
 adelement.com,30208,RESELLER
@@ -69,6 +70,7 @@ adingo.jp, 32534, RESELLER
 adingo.jp,31054,RESELLER
 adipolo.com,22899268170,RESELLER
 admanmedia.com, 2037, RESELLER
+admanmedia.com, 2045, RESELLER
 admanmedia.com, 2050, RESELLER
 admanmedia.com, 2063, RESELLER
 admanmedia.com, 2153, RESELLER
@@ -94,6 +96,7 @@ admixer.net, 2f833c20-7378-4b86-9b73-a2b56263d4d4, RESELLER
 admixer.net, 70590d13-5632-41d5-8a78-76bc239c528c, RESELLER
 admixer.net, 8e380da6-31ba-488c-939c-290c48d577e4, RESELLER
 admixer.net, a80e4ca1-f52f-4aa5-98e1-010c8d08251b, RESELLER
+admixer.net, e58950b9-933f-4f5b-b49c-7ca927540db1, RESELLER
 admixer.net, eab09ea6-bcf7-4eff-965d-b4f43962c73c, RESELLER
 admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, DIRECT
 admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, RESELLER
@@ -1015,6 +1018,7 @@ loopme.com,5679,RESELLER,6c8d5f95897a5a3b
 loopme.com,9621,RESELLER,6c8d5f95897a5a3b
 loopme.com,9718,RESELLER,6c8d5f95897a5a3b
 loopme.com,s-2411,RESELLER,6c8d5f95897a5a3b
+lunamedia.io, 193bca549318aed0434226d4d73e13f3, RESELLER, 524ecb396915caaf
 lunamedia.io, 2fb901cd79f4453b90b68bee79da71b5, RESELLER, 524ecb396915caaf
 lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
 lunamedia.io, 464b5a3a-b155-4f05-8953-9f6cd192d932, RESELLER, 524ecb396915caaf
@@ -1340,6 +1344,7 @@ pubmatic.com, 160740, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160849, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
+pubmatic.com, 160989, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160993, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161058, RESELLER, 5d62403b186f2ace
@@ -1589,6 +1594,7 @@ Rubiconproject.com, 15526, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
@@ -1974,6 +1980,7 @@ taurusx.com, 70628, RESELLER
 taurusx.com, 80029, RESELLER
 taurusx.com, 80070, RESELLER
 taurusx.com, 80609, RESELLER
+taurusx.com, 80614, RESELLER
 taurusx.com, 80635, RESELLER
 taurusx.com,70090,RESELLER
 taurusx.com,80066,RESELLER

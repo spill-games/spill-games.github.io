@@ -732,3 +732,10 @@ pubnative.net, 1009046, RESELLER, d641df8625486a7b
 bidmachine.io, 98, RESELLER
 smartadserver.com, 4543, RESELLER, 060d053dcf45cbf3
 pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
+admanmedia.com, 2045, RESELLER
+adelement.com, 36004, RESELLER
+admixer.net, e58950b9-933f-4f5b-b49c-7ca927540db1, RESELLER
+lunamedia.io, 193bca549318aed0434226d4d73e13f3, RESELLER, 524ecb396915caaf
+rubiconproject.com, 16834, RESELLER, 0bfd66d529a55807
+pubmatic.com, 160989, RESELLER, 5d62403b186f2ace
+taurusx.com, 80614, RESELLER
