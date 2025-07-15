@@ -41,3 +41,5 @@ lijit.com, 560797-eb, DIRECT, fafdf38b16bf6b2b #SOVRN
 krushmedia.com, AJxF6R572a9M6CaTvK, RESELLER
 smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
 improvedigital.com, 2417, RESELLER
+uis.mobfox.com, 2444, RESELLER, 5529a3d1f59865be
+pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
