@@ -1,6 +1,7 @@
 152media.info, 152M50, RESELLER
 152media.info,152M312,RESELLER
 33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
+33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
 33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
 9dotsmedia.com, 122262, RESELLER, 45ff185b4c4e857d
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
@@ -73,6 +74,7 @@ admanmedia.com, 2037, RESELLER
 admanmedia.com, 2045, RESELLER
 admanmedia.com, 2050, RESELLER
 admanmedia.com, 2063, RESELLER
+admanmedia.com, 2072, RESELLER
 admanmedia.com, 2153, RESELLER
 admanmedia.com, 2242, RESELLER
 admanmedia.com, 2248, RESELLER
@@ -542,6 +544,7 @@ criteo.com, B-070302, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-071797, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-072581, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-074375, RESELLER, 9fac4a4a87c2a44f
+criteo.com, B-081657, RESELLER, 9fac4a4a87c2a44f
 criteo.com,186227,RESELLER
 criteo.com,B-057601,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-057955,RESELLER,9fac4a4a87c2a44f
@@ -2021,6 +2024,7 @@ themediagrid.com, FALINO, direct, 35d5010d7789b49d
 themediagrid.com, FALINO, DIRECT, 35d5010d7789b49d
 themediagrid.com, FALINO, RESELLER, 35d5010d7789b49d
 themediagrid.com, JAZ4RI, RESELLER, 35d5010d7789b49d
+themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
 themediagrid.com, NG9STC, DIRECT, 35d5010d7789b49d
 themediagrid.com, NG9STC, RESELLER, 35d5010d7789b49d
 themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
@@ -2284,6 +2288,7 @@ vidoomy.com, 7646534, RESELLER
 vidoomy.com,2412786,RESELLER
 vidoomy.com,6858194,RESELLER
 vidoomy.com,9148331,RESELLER
+visiblemeasures.com, 1004, RESELLER
 visiblemeasures.com, 1020, RESELLER
 visiblemeasures.com,1020,RESELLER
 visoon.de, 64393, RESELLER
