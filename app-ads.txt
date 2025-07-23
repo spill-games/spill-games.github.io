@@ -367,6 +367,7 @@ bidease.com,bidease_seller_8,RESELLER
 bidence.com, 4a87393d59a18d4bbfb5326c5d98051a, RESELLER
 bidence.com,b8932c93bf4123ee6d969796302a037c,RESELLER
 bidence.com,d35302328a4b1f129d376f9c2932b0b7,RESELLER
+bidmachine.io, 100, RESELLER
 bidmachine.io, 1064, RESELLER
 bidmachine.io, 1065, RESELLER
 bidmachine.io, 114, RESELLER

@@ -86,3 +86,4 @@ adingenious.com, 75036, RESELLER
 apester.com, 2212, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 hindsightsolutions.net, HSINMOBI100000, RESELLER
+bidmachine.io, 100, RESELLER
