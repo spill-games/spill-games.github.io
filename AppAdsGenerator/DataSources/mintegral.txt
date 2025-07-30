@@ -744,3 +744,17 @@ admanmedia.com, 2072, RESELLER
 visiblemeasures.com, 1004, RESELLER
 themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
 criteo.com, B-081657, RESELLER, 9fac4a4a87c2a44f
+meazy.co, 15510, RESELLER
+xe.works, 15511, RESELLER
+pubmatic.com, 162837, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166238, RESELLER, 5d62403b186f2ace
+entravision.com, 1525, RESELLER
+display.io, 221372, RESELLER
+dauup.com, 34109, RESELLER
+adingenious.com, 75075, RESELLER
+audiobranch.co, 256780, RESELLER
+instreamatic.com, 78, RESELLER
+admanmedia.com, 34, RESELLER
+visiblemeasures.com, 1009, RESELLER
+video.unrulymedia.com, 2979066401945419350, RESELLER
+auxoads.com, 12125, RESELLER

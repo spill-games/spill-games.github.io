@@ -65,6 +65,7 @@ adiiix.com,a714bbf8,RESELLER
 adiiix.com,db716a4c,RESELLER
 adiiix.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
 adingenious.com, 75036, RESELLER
+adingenious.com, 75075, RESELLER
 adingo.jp, 31054, RESELLER
 adingo.jp, 32401, RESELLER
 adingo.jp, 32534, RESELLER
@@ -78,6 +79,7 @@ admanmedia.com, 2072, RESELLER
 admanmedia.com, 2153, RESELLER
 admanmedia.com, 2242, RESELLER
 admanmedia.com, 2248, RESELLER
+admanmedia.com, 34, RESELLER
 admanmedia.com, 594, RESELLER
 admanmedia.com, 613, RESELLER
 admanmedia.com, 621, RESELLER
@@ -318,6 +320,8 @@ aralego.com,par-E2B3A33EAA4286BEF7ADD9AA28A922D2,RESELLER
 arcaneflow.com, 50149190, RESELLER
 atasdigital.com, 504422, RESELLER
 atasdigital.com, 506154, RESELLER
+audiobranch.co, 256780, RESELLER
+auxoads.com, 12125, RESELLER
 axonix.com, 57264, RESELLER
 axonix.com, 57869, RESELLER
 axonix.com, 59054, RESELLER, bc385f2b4a87b721
@@ -551,7 +555,9 @@ criteo.com,B-057601,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-057955,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-074375,RESELLER,9fac4a4a87c2a44f
 dauup.com, 34103, RESELLER
+dauup.com, 34109, RESELLER
 digitalturbine.com,221376,RESELLER
+display.io, 221372, RESELLER
 display.io,173162,RESELLER
 districtm.io, 101649, RESELLER, 3fd707be9c4527c3
 dynadmic.com,4133288916,RESELLER
@@ -576,6 +582,7 @@ emxdgt.com, 2041, RESELLER, 1e1d41537f7cad7f
 engagebdr.com, 10181, RESELLER
 engagebdr.com, 10252, RESELLER
 engagebdr.com, 10423, RESELLER
+entravision.com, 1525, RESELLER
 epom.com, 9228dad8-6fd8-4e11-8885-f5a02dc42604, RESELLER
 equativ.com, 4762, RESELLER, 060d053dcf45cbf3
 equativ.com, 5026, RESELLER, 060d053dcf45cbf3
@@ -888,6 +895,7 @@ inmobi.com,ef083d721beb4c0f8776ced01e262c03,RESELLER,83e75a7ae333ca9d
 inmobi.com,f3924290136e4129a5c082ff982c3a58,RESELLER,83e75a7ae333ca9d
 inmobi.com,f71b28e30a8249c3b08a9bca1a5cfbb7,RESELLER,83e75a7ae333ca9d
 instal.com,5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644,RESELLER
+instreamatic.com, 78, RESELLER
 INVENTORYPARTNERDOMAIN=thegermanemedia.com	
 iqzone.com, IQ87, RESELLER
 iqzone.com,IQ39,RESELLER
@@ -1050,6 +1058,7 @@ mars.media,1010422,RESELLER,8624339f102fb076
 mars.media,1010463,RESELLER,8624339f102fb076
 mars.media,107876,RESELLER,8624339f102fb076
 max-mobi.com, 11456, RESELLER, 6c4d5f85197a5b3c
+meazy.co, 15510, RESELLER
 media.net, 8cu12aq1y, RESELLER
 media.net, 8CU12AQ1Y, RESELLER
 Media.net, 8CU12AQ1Y, RESELLER
@@ -1373,6 +1382,7 @@ pubmatic.com, 162270, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162402, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162449, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162588, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162837, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
@@ -1403,6 +1413,7 @@ pubmatic.com, 165438, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165701, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165702, RESELLER, 5d62403b186f2ace
 pubmatic.com, 165980, RESELLER, 5d62403b186f2ace
+pubmatic.com, 166238, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubmatic.com,155967,RESELLER,5d62403b186f2ace
@@ -2213,6 +2224,7 @@ video.unrulymedia.com, 2464975885, RESELLER
 video.unrulymedia.com, 2564526802, RESELLER
 video.unrulymedia.com, 2613193077, RESELLER, 6f752381ad5ec0e5
 video.unrulymedia.com, 2743945877, RESELLER
+video.unrulymedia.com, 2979066401945419350, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 video.unrulymedia.com, 324806554, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3383599585, RESELLER
@@ -2295,6 +2307,7 @@ vidoomy.com,2412786,RESELLER
 vidoomy.com,6858194,RESELLER
 vidoomy.com,9148331,RESELLER
 visiblemeasures.com, 1004, RESELLER
+visiblemeasures.com, 1009, RESELLER
 visiblemeasures.com, 1020, RESELLER
 visiblemeasures.com,1020,RESELLER
 visoon.de, 64393, RESELLER
@@ -2364,6 +2377,7 @@ Xapads.com, 117219, RESELLER
 Xapads.com, 155860, RESELLER
 xapads.com,117219,RESELLER
 xapads.com,207899,RESELLER
+xe.works, 15511, RESELLER
 yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, RESELLER
 yahoo.com, 55032, RESELLER, e1a5b5b6e3255540
 yahoo.com, 55681, RESELLER, e1a5b5b6e3255540
