@@ -87,3 +87,11 @@ apester.com, 2212, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 hindsightsolutions.net, HSINMOBI100000, RESELLER
 bidmachine.io, 100, RESELLER
+e-volution.ai, ajxf6r378a9m6catvk, reseller
+smaato.com, 1100053415, reseller, 07bcf65f187117b4
+improvedigital.com, 2607, reseller
+onlinemediasolutions.com, 29556, reseller, b3868b187e4b6402
+yellowhead.com, 67b9c0a1d2e345, reseller
+axonix.com, 57716, reseller
+gitberry.com, 335100012, reseller
+bidmachine.io, 101, reseller

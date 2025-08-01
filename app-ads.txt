@@ -323,6 +323,7 @@ atasdigital.com, 506154, RESELLER
 audiobranch.co, 256780, RESELLER
 auxoads.com, 12125, RESELLER
 axonix.com, 57264, RESELLER
+axonix.com, 57716, reseller
 axonix.com, 57869, RESELLER
 axonix.com, 59054, RESELLER, bc385f2b4a87b721
 axonix.com, 59107, RESELLER, bc385f2b4a87b721
@@ -372,6 +373,7 @@ bidence.com, 4a87393d59a18d4bbfb5326c5d98051a, RESELLER
 bidence.com,b8932c93bf4123ee6d969796302a037c,RESELLER
 bidence.com,d35302328a4b1f129d376f9c2932b0b7,RESELLER
 bidmachine.io, 100, RESELLER
+bidmachine.io, 101, reseller
 bidmachine.io, 1064, RESELLER
 bidmachine.io, 1065, RESELLER
 bidmachine.io, 114, RESELLER
@@ -574,6 +576,7 @@ e-planning.net,79686787743ddfc5,RESELLER,c1ba615865ed87b2
 e-planning.net,864690bcd16cd011,RESELLER,c1ba615865ed87b2
 e-planning.net,b9165ad221c51225,RESELLER,c1ba615865ed87b2
 e-planning.net,ec771b05828a67fa,RESELLER,c1ba615865ed87b2
+e-volution.ai, ajxf6r378a9m6catvk, reseller
 eliteappgrade.com, 494223, RESELLER
 eliteappgrade.com, 514554, RESELLER
 eliteappgrade.com,494223,RESELLER
@@ -650,6 +653,7 @@ gamaigroup.com, 423056, RESELLER
 gamoshi.io,267-b4808,RESELLER,20e30b2ae1f670f2
 gitberry.com, 325100011, RESELLER
 gitberry.com, 325100012, RESELLER
+gitberry.com, 335100012, reseller
 gitberry.com, 3OJ, RESELLER
 gitberry.com, 42knb, RESELLER
 gitberry.com,355100012,RESELLER
@@ -786,6 +790,7 @@ improvedigital.com, 2530, RESELLER
 improvedigital.com, 2534, RESELLER
 improvedigital.com, 2602, RESELLER
 improvedigital.com, 2603, RESELLER
+improvedigital.com, 2607, reseller
 improvedigital.com, 2608, RESELLER
 improvedigital.com, 2609, RESELLER
 improvedigital.com,1114,RESELLER
@@ -1169,6 +1174,7 @@ onetag.com,8dd8de7f341d57e,RESELLER
 onlinemediasolutions.com, 20498, RESELLER
 onlinemediasolutions.com, 23120, RESELLER
 onlinemediasolutions.com, 29556, RESELLER
+onlinemediasolutions.com, 29556, reseller, b3868b187e4b6402
 onlinemediasolutions.com,20444,RESELLER
 onlinemediasolutions.com,29559,RESELLER
 onomagic.com, 204981, RESELLER
@@ -1800,6 +1806,7 @@ smaato.com, 1100044156, RESELLER, 07bcf65f187117b4
 smaato.com, 1100047589, RESELLER, 07bcf65f187117b4
 smaato.com, 1100050739, RESELLER, 07bcf65f187117b4
 smaato.com, 1100051000, RESELLER, 07bcf65f187117b4
+smaato.com, 1100053415, reseller, 07bcf65f187117b4
 smaato.com, 1100055341, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056110, RESELLER, 07bcf65f187117b4
 smaato.com, 1100056344, RESELLER, 07bcf65f187117b4
@@ -2413,6 +2420,7 @@ yeahmobi.com,5135195,RESELLER
 yeahmobi.com,5135224,RESELLER
 yeahmobi.com,5135302,RESELLER
 yeahmobi.com,5135347,RESELLER
+yellowhead.com, 67b9c0a1d2e345, reseller
 yieldlab.net,2172218,RESELLER
 yieldmo.com, 2807970144171533194, RESELLER
 yieldmo.com, 3036313774475649025, RESELLER
