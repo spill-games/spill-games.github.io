@@ -95,3 +95,5 @@ yellowhead.com, 67b9c0a1d2e345, reseller
 axonix.com, 57716, reseller
 gitberry.com, 335100012, reseller
 bidmachine.io, 101, reseller
+smaato.com, 1100059052, reseller, 07bcf65f187117b4
+risecodes.com, 686ea3dfe2c0d50001e494e2, reseller

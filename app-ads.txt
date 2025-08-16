@@ -1865,6 +1865,7 @@ risecodes.com, 66bca72035bff70001caa46f, RESELLER
 risecodes.com, 66fab6981efdb80001a3dadc, RESELLER
 risecodes.com, 67e92bf7698942000140acce, RESELLER
 risecodes.com, 685c25b72cb7980001e4ff27, RESELLER
+risecodes.com, 686ea3dfe2c0d50001e494e2, reseller
 risecodes.com,64e346c45ab8e700016b45cd,RESELLER
 risecodes.com,662a26f1f3d42a00015ffbad,RESELLER
 rixengine.com, 604513, RESELLER
@@ -2114,6 +2115,7 @@ smaato.com, 1100057628, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058043, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058938, RESELLER, 07bcf65f187117b4
 smaato.com, 1100058954, RESELLER, 07bcf65f187117b4
+smaato.com, 1100059052, reseller, 07bcf65f187117b4
 smaato.com, 1100059375, RESELLER, 07bcf65f187117b4
 smaato.com,1100004890,RESELLER,07bcf65f187117b4
 smaato.com,1100040398,RESELLER,07bcf65f187117b4
