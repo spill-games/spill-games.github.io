@@ -497,6 +497,7 @@ blueseasx.com, 203670, RESELLER, 7998eac5087f6110
 blueseasx.com, 232670, RESELLER, 7998eac5087f6110
 blueseasx.com,203592,RESELLER
 blueseasx.com,203592,RESELLER,7998eac5087f6110
+bluexad.ai, 1947919201712738304, reseller
 bold-win.com, 148, RESELLER, 71746737d0bab951
 bold-win.com, 45325, RESELLER
 bold-win.com, 807, RESELLER, 71746737d0bab951
@@ -1197,6 +1198,7 @@ loopme.com, 11647, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11694, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 14009, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 15629, RESELLER, 6c8d5f95897a5a3b
+loopme.com, 15665, reseller, 6c8d5f95897a5a3b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 9718, RESELLER, 6c8d5f95897a5a3b
@@ -1308,6 +1310,7 @@ mobfox.com,82593,RESELLER,5529a3d1f59865be
 mobilefuse.com, 3719, RESELLER, 71e88b065d69c021
 mobimight.com, 30271, RESELLER
 mobismarter.com, 3294, RESELLER
+mobupps.com, c74d97b01eae257e44aa9d5bade97baf33094, reseller
 mobupps.com,c74d97b01eae257e44aa9d5bade97baf32954,RESELLER
 mobupps.com,c74d97b01eae257e44aa9d5bade97baf7726,RESELLER
 motionspots.com, 166484, RESELLER
@@ -2464,6 +2467,7 @@ tpmn.io, 664, RESELLER
 tpmn.io,522,RESELLER
 tpmn.io,532,RESELLER
 tradplusad.com, b3fca24bd11c1242, RESELLER
+tradplusad.com, ba761e9c72f279da, reseller
 tradplusad.com,97f87d32cbc437a3,RESELLER
 tredio.io, 357a6fdf7642bf815a88822c447d9dc432901, RESELLER
 tredio.io, 357a6fdf7642bf815a88822c447d9dc433546, RESELLER
