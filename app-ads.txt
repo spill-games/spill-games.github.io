@@ -723,6 +723,7 @@ flat-ads.com,6,RESELLER
 flat-ads.com,72,RESELLER
 flatads.com, 276, RESELLER
 freewheel.tv, 1137745, RESELLER
+freewheel.tv, 1138513-524565, RESELLER
 freewheel.tv, 1138513, RESELLER
 freewheel.tv, 1220655, RESELLER
 freewheel.tv, 1235183, RESELLER
@@ -749,6 +750,7 @@ freewheel.tv, 741650, RESELLER
 Freewheel.tv, 741650, RESELLER
 freewheel.tv, 895601, RESELLER
 freewheel.tv, sg1256363, RESELLER
+freewheel.tv, sg1258340, RESELLER
 freewheel.tv,1137745,RESELLER
 freewheel.tv,1138513,RESELLER
 freewheel.tv,1157729,RESELLER
@@ -1255,6 +1257,7 @@ media.net, 8CU813E2H, RESELLER
 media.net, 8CU9B72O6, RESELLER
 Media.net, 8CU9B72O6, RESELLER
 media.net, 8CUD06Z68, RESELLER
+media.net, 8CUE65SNU, RESELLER
 media.net, 8CUI89K0D, RESELLER
 media.net, 8CUN37DCC, RESELLER
 media.net, 8cun4y5y3, RESELLER
