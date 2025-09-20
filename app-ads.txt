@@ -2508,6 +2508,7 @@ stroeer.com, 17379, RESELLER
 stroeer.com, 25290, RESELLER
 stroeer.com, 25538, RESELLER
 supply.colossusssp.com, 821, DIRECT, 6c5b49d96ec1b458
+supply.colossusssp.com, 907, RESELLER 
 synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
 synacor.com, 82460, RESELLER, e108f11b2cdf7d5b
 target.my.com,12723589,RESELLER
