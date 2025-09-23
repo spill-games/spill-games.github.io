@@ -8,3 +8,7 @@ pubmatic.com, 164927, RESELLER, 5d62403b186f2ace
 lijit.com, 509119-eb, DIRECT, fafdf38b16bf6b2b
 onetag.com, 894a7df6a5f7180-OB, DIRECT
 aps.amazon.com,c581afbf-1c21-414a-bc75-cca4502836b4,DIRECT
+google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
+playstream.media, 2281, DIRECT
+adsolut.in, 17151, DIRECT
+google.com, pub-8584156348842922, RESELLER, f08c47fec0942fa0

@@ -157,6 +157,7 @@ adriver.ru, 187150, RESELLER
 adro.io, 3992, RESELLER
 ads.vk.com, 18644219, RESELLER
 adsinteractive.com, 39993, RESELLER
+adsolut.in, 17151, DIRECT
 adsphere360.com, 1042770, RESELLER, 
 adstxtmarket.com, 1159989565, RESELLER
 adstxtmarket.com, 3779254932, RESELLER
@@ -874,6 +875,7 @@ google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
 google.com, pub-3962377895790704, DIRECT, f08c47fec0942fa0
 google.com, pub-3990748024667386, DIRECT, f08c47fec0942fa0
 google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+google.com, pub-4586415728471297, RESELLER, f08c47fec0942fa0
 google.com, pub-4836542095728076, RESELLER, f08c47fec0942fa0 #Positive
 google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #APL
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
@@ -883,6 +885,7 @@ google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 google.com, pub-6716225838534735, RESELLER, f08c47fec0942fa0
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
 google.com, pub-7983651257838282, RESELLER, f08c47fec0942fa0
+google.com, pub-8584156348842922, RESELLER, f08c47fec0942fa0
 google.com, pub-8929667634210480, RESELLER, f08c47fec0942fa0
 google.com, pub-9135355251665930, RESELLER, f08c47fec0942fa0 #opa
 google.com, pub-9417114411593463, RESELLER, f08c47fec0942fa0
@@ -1648,6 +1651,7 @@ playdigo.com, 2041, RESELLER, 92011346d63d3c30
 playdigo.com,1983,RESELLER
 playdigo.com,1986,RESELLER,92011346d63d3c30
 playdigo.com,2041,RESELLER,92011346d63d3c30
+playstream.media, 2281, DIRECT
 playwire.com, 1018531, RESELLER
 playwire.com, 1025119, RESELLER
 playwire.com,1025119,RESELLER
