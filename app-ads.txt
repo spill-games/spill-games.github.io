@@ -1826,6 +1826,7 @@ pubmatic.com, 166180, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166238, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166965, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubmatic.com,155967,RESELLER,5d62403b186f2ace
 pubmatic.com,156177,RESELLER,5d62403b186f2ace
@@ -2512,7 +2513,7 @@ stroeer.com, 17379, RESELLER
 stroeer.com, 25290, RESELLER
 stroeer.com, 25538, RESELLER
 supply.colossusssp.com, 821, DIRECT, 6c5b49d96ec1b458
-supply.colossusssp.com, 907, RESELLER 
+supply.colossusssp.com, 907, RESELLER
 synacor.com, 82171, RESELLER, e108f11b2cdf7d5b
 synacor.com, 82460, RESELLER, e108f11b2cdf7d5b
 target.my.com,12723589,RESELLER
@@ -3038,6 +3039,7 @@ yieldnexus.com, 96204, RESELLER
 ylhglobal.com, 1930587443, RESELLER
 zetaglobal.com, 815, RESELLER
 zetaglobal.com,815,RESELLER
+zetaglobal.net, 512, RESELLER
 zetaglobal.net, 525, RESELLER
 zetaglobal.net, 681, RESELLER
 zetaglobal.net, 815, RESELLER
