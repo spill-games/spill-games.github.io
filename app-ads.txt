@@ -205,6 +205,7 @@ adyoulike.com, 5e09d5fe0d58941e6adc167159cc9218, RESELLER
 adyoulike.com, 76375ac0f5abb5a550c87326b9063b59, RESELLER
 adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
 adyoulike.com, a2226c27fc2a6773f6a2b365e013513a, RESELLER, 4ad745ead2958bf7
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 adyoulike.com, e48120b055ac0abcc41c0093bf3fe02e, RESELLER
 adyoulike.com,76375ac0f5abb5a550c87326b9063b59,RESELLER
@@ -281,6 +282,7 @@ appads.in,106246,RESELLER
 appads.in,107606,RESELLER
 appaspire.com, 97515, RESELLER
 appaspire.com, 97517, RESELLER
+appbroda.com, 1064, DIRECT
 applovin.com, 2d8d7612e1aad3786e3556bafec7a329, DIRECT
 applovin.com,5c72b49c2b2ce6949bf0f98eafe9e417,RESELLER
 applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
@@ -586,6 +588,7 @@ contextweb.com , 562615, RESELLER, 89ff185a4c4e857c
 contextweb.com, 558511, RESELLER, 89ff185a4c4e857c
 contextweb.com, 558638, RESELLER, 89ff185a4c4e857c
 Contextweb.com, 560138, RESELLER, 89ff185a4c4e857c
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
 contextweb.com, 561849, RESELLER, 89ff185a4c4e857c
 contextweb.com, 561884, RESELLER, 89ff185a4c4e857c
 contextweb.com, 561913, RESELLER, 89ff185a4c4e857c
@@ -597,6 +600,7 @@ contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562669, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562726, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562757, RESELLER, 89ff185a4c4e857c
 Contextweb.com, 562762, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562791, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562794, RESELLER, 89ff185a4c4e857c
@@ -796,6 +800,7 @@ flat-ads.com, 2196901, RESELLER
 flat-ads.com,6,RESELLER
 flat-ads.com,72,RESELLER
 flatads.com, 276, RESELLER
+foxpush.com, 11233319, RESELLER
 freewheel.tv, 1137745, RESELLER
 freewheel.tv, 1138513-524565, RESELLER
 freewheel.tv, 1138513, RESELLER
@@ -870,6 +875,7 @@ goldbach-germany.de, Connekt, RESELLER
 google.com, pub-1682595508078257, RESELLER, f08c47fec0942fa0
 google.com, pub-2843405949989126, RESELLER, f08c47fec0942fa0
 google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0 #GreeterAPL
+google.com, pub-3184487253168181, RESELLER, f08c47fec0942fa0
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
 google.com, pub-3962377895790704, DIRECT, f08c47fec0942fa0
@@ -881,6 +887,7 @@ google.com, pub-4903453974745530, RESELLER, f08c47fec0942fa0 #APL
 google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 google.com, pub-5289985627731322, RESELLER, f08c47fec0942fa0
 google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0
+google.com, pub-6161288140452981, RESELLER, f08c47fec0942fa0
 google.com, pub-6346866704322274, RESELLER, f08c47fec0942fa0
 google.com, pub-6716225838534735, RESELLER, f08c47fec0942fa0
 google.com, pub-7452201096415972, RESELLER, f08c47fec0942fa0
@@ -1218,6 +1225,7 @@ lijit.com, 480816, RESELLER, fafdf38b16bf6b2b
 lijit.com, 481366, Reseller, fafdf38b16bf6b2b
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
 lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
+lijit.com, 489954, RESELLER, fafdf38b16bf6b2b
 lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
 lijit.com, 491580, RESELLER, fafdf38b16bf6b2b
 lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
@@ -1609,6 +1617,7 @@ opera.com, pub9598682313984, RESELLER, 55a0c5fd61378de3
 opera.com, pub9598692093632, RESELLER, 55a0c5fd61378de3
 opera.com,pub10014056052800,RESELLER,55a0c5fd61378de3
 opera.com,pub10084465274176,RESELLER,55a0c5fd61378de3
+opera.com,pub10908243052672,RESELLER,55a0c5fd61378de3
 opera.com,pub13541542357632,RESELLER,55a0c5fd61378de3
 opera.com,pub4366595624320,RESELLER,55a0c5fd61378de3
 opera.com,pub4444433466368,RESELLER,55a0c5fd61378de3
@@ -1631,6 +1640,7 @@ outbrain.com, 009003959a5821f830a09d0bc562b43c62, RESELLER
 outbrain.com, 00a7a621155a60e5a12298c11790e00a60, RESELLER
 outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
+outbrain.com,002d7f7ba0bd74452f2b155d0dfb5cd6c8,RESELLER
 ownerdomain=spill.games
 OWNERDOMAIN=spill.games
 pangleglobal.com, 45779, RESELLER
@@ -1785,6 +1795,7 @@ pubmatic.com, 162968, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163038, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163066, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163075, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163078, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163162, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163307, RESELLER, 5d62403b186f2ace
 pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
@@ -2085,6 +2096,7 @@ rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 22412, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 22824, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23644, RESELLER, 0bfd66d529a55807
 Rubiconproject.com, 23674, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 23822, RESELLER, 0bfd66d529a55807
@@ -2361,6 +2373,8 @@ smartadserver.com, 4883, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4926, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4938-OB, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4938, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4941-OB, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4941, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4998, RESELLER
 smartadserver.com, 4998, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 5026, RESELLER, 060d053dcf45cbf3
@@ -2732,6 +2746,7 @@ ucfunnel.com,par-D2346AAB7ABD36B4CDD7BBD264BA92E2,RESELLER
 ucfunnel.com,par-E2B3A33EAA4286BEF7ADD9AA28A922D2,RESELLER
 uis.mobfox.com, 165, RESELLER
 uis.mobfox.com, 1916, RESELLER, 5529a3d1f59865be
+uis.mobfox.com, 2158, RESELLER, 5529a3d1f59865be
 uis.mobfox.com, 2206, RESELLER, 5529a3d1f59865be
 uis.mobfox.com, 2444, RESELLER, 5529a3d1f59865be
 uis.mobfox.com,1729,RESELLER,5529a3d1f59865be
