@@ -335,6 +335,7 @@ appnexus.com, 16903, RESELLER, f5ab79cb980f11d1
 appnexus.com, 17044, RESELLER
 appnexus.com, 17234, RESELLER
 appnexus.com, 17417, RESELLER, f5ab79cb980f11d1
+appnexus.com, 17779, RESELLER
 appnexus.com, 2637, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3153, RESELLER, f5ab79cb980f11d1
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
@@ -1072,6 +1073,7 @@ indexexchange.com, 195812, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 196757, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 198417, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 211341, RESELLER, 50b1c356f2c5c8fc
+indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com,183920,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,184349,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,184738,RESELLER,50b1c356f2c5c8fc
@@ -1636,6 +1638,7 @@ orangeclickmedia.com, C-1181, RESELLER
 outbrain.com, 0005bfbc60db1570e63954937b4bec06de, RESELLER
 outbrain.com, 0023749a2264ea0429a71b54ac9ca0de9a, RESELLER
 outbrain.com, 002d7f7ba0bd74452f2b155d0dfb5cd6c8, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 outbrain.com, 009003959a5821f830a09d0bc562b43c62, RESELLER
 outbrain.com, 00a7a621155a60e5a12298c11790e00a60, RESELLER
 outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
@@ -1837,6 +1840,7 @@ pubmatic.com, 166180, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166238, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 166965, RESELLER, 5d62403b186f2ace
+pubmatic.com, 167130, RESELLER, 5d62403b186f2ace
 pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 pubmatic.com, 92509, RESELLER, 5d62403b186f2ace
 pubmatic.com,155967,RESELLER,5d62403b186f2ace
@@ -2839,6 +2843,7 @@ video.unrulymedia.com, 6111915185540403805, Direct
 video.unrulymedia.com, 6111915185540403805, RESELLER
 video.unrulymedia.com, 645663965, RESELLER
 video.unrulymedia.com, 656687170, RESELLER
+video.unrulymedia.com, 657436911, RESELLER
 video.unrulymedia.com, 667989109, RESELLER
 video.unrulymedia.com, 682817271102171104, RESELLER
 video.unrulymedia.com, 689559416, RESELLER
