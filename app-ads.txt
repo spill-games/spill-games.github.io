@@ -2595,6 +2595,7 @@ themediagrid.com, R28I9J, RESELLER, 35d5010d7789b49d
 themediagrid.com, RABCQ1, RESELLER, 35d5010d7789b49d
 themediagrid.com, SH96GF, RESELLER, 35d5010d7789b49d
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
+themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
 themediagrid.com, XBYGOC, RESELLER, 35d5010d7789b49d
 themediagrid.com,1283WV,RESELLER,35d5010d7789b49d
 themediagrid.com,A8X5S7,RESELLER,35d5010d7789b49d

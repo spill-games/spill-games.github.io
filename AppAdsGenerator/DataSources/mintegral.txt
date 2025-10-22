@@ -787,3 +787,4 @@ freewheel.tv, sg1258340, RESELLER
 supply.colossusssp.com, 907, RESELLER
 pubmatic.com, 167188, RESELLER, 5d62403b186f2ace
 zetaglobal.net, 512, RESELLER
+themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
