@@ -312,8 +312,8 @@ apester.com, 2212, RESELLER
 apester.com, 49071, RESELLER
 apester.com,1105,DIRECT
 apester.com,2801,RESELLER
+app-stock.com, 256917, RESELLER
 App-stock.com, 256917, Reseller
-app-stock.com, 256917, RESELLER-$2K-$5K
 app-stock.com, 315417, RESELLER
 app-stock.com, 384491, RESELLER
 app-stock.com, 558223, RESELLER, ed8c126ea5971415
@@ -385,7 +385,6 @@ appnexus.com, 15426, RESELLER, f5ab79cb980f11d1
 appnexus.com, 15629, RESELLER
 appnexus.com, 15670, RESELLER
 appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
-appnexus.com, 15980, RESELLER, f5ab79cb980f11d1-$2K-$10K
 appnexus.com, 16220, RESELLER, f5ab79cb980f11d1
 appnexus.com, 16244, RESELLER
 appnexus.com, 16903, RESELLER, f5ab79cb980f11d1
@@ -2602,7 +2601,6 @@ sharethrough.com, NNB0Zl76, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r4ScMSsf, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
-sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2-$2K-$10K
 sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, UbYLkrys, RESELLER, d53b998a7bd4ecd2
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2

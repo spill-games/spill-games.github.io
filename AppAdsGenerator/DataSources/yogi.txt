@@ -167,7 +167,7 @@ aniview.com,603f65a2e291680ef30af9c7,RESELLER,78b21b97965ec3f8
 aol.com, 58935, RESELLER, e1a5b5b6e3255540
 aol.com, 59025, RESELLER, e1a5b5b6e3255540
 App-stock.com, 256917, Reseller
-app-stock.com, 256917, RESELLER-$2K-$5K
+app-stock.com, 256917, RESELLER
 app-stock.com, 315417, RESELLER
 app-stock.com, 384491, RESELLER
 App-stock.com, 558223, Reseller, ed8c126ea5971415
