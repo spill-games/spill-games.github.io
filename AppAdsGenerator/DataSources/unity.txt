@@ -21,7 +21,7 @@ adyoulike.com, 994b7b4e03898048761c7110f11e56c2, RESELLER
 
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 
-app-stock.com, 256917, RESELLER-$2K-$5K
+app-stock.com, 256917, RESELLER
 
 app-stock.com, 384491, RESELLER
 
@@ -43,7 +43,7 @@ appnexus.com, 15629, RESELLER
 
 appnexus.com, 15670, RESELLER
 
-appnexus.com, 15980, RESELLER, f5ab79cb980f11d1-$2K-$10K
+appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
 
 appnexus.com, 16244, RESELLER
 
@@ -423,7 +423,7 @@ sharethrough.com, FTVCT81v, RESELLER
 
 sharethrough.com, K5WDGAsP, RESELLER, d53b998a7bd4ecd2
 
-sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2-$2K-$10K
+sharethrough.com, r9B1MG7E, RESELLER, d53b998a7bd4ecd2
 
 sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
 
