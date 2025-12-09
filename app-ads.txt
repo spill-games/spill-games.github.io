@@ -75,6 +75,7 @@ adagio.io,1522,RESELLER
 adagio.io,1525,RESELLER
 adagio.io,1531,RESELLER
 adagio.io,1546,RESELLER
+adagio.io,1581,RESELLER
 adbility-media.com,187,RESELLER
 adbro.me,eb76b782-9af7-4536-aac7-3d280f1f6652,RESELLER
 adcolony.com,0a0f72cd66122f31,RESELLER,1ad675c9de6b5176
@@ -764,6 +765,8 @@ criteo.com,B-072395,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-072581,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-074375,RESELLER,9fac4a4a87c2a44f
 criteo.com,B-081657,RESELLER,9fac4a4a87c2a44f
+criteo.com,NC7LXT,RESELLER,35d5010d7789b49d
+criteo.com,WS2D8N,RESELLER,35d5010d7789b49d
 criteo.com,b-062019,RESELLER,9fac4a4a87c2a44f
 dauup.com,34103,RESELLER
 dauup.com,34109,RESELLER
