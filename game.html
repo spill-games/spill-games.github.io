@@ -29,6 +29,16 @@
             align-items: center;
             justify-content: center;
         }
+
+        @media (max-width: 767.98px) {
+            .game-image-container {
+                position: relative !important;
+                top: 0 !important;
+                height: 40vh !important;
+                max-height: 350px !important;
+                margin-bottom: 2rem;
+            }
+        }
     </style>
 </head>
 
@@ -59,8 +69,8 @@
     <section class="ftco-section mt-5 pt-5">
         <div class="container" id="game-content-container">
             <div class="row">
-                <div class="col-md-6">
-                    <div class="img-about img d-flex flex-column"
+                <div class="col-md-6 mb-4 mb-md-0">
+                    <div class="img-about img d-flex flex-column game-image-container"
                         style="position: sticky; top: 120px; height: 70vh; max-height: 600px; border-radius: 8px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
                         <div class="overlay"></div>
                         <div class="img w-100 h-100" id="game-image"
