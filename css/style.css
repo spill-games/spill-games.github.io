@@ -9731,7 +9731,14 @@ h5,
 
 .owl-carousel {
   position: relative;
-  touch-action: pan-y;
+}
+
+.owl-carousel,
+.owl-carousel .owl-stage-outer,
+.owl-carousel .owl-stage,
+.owl-carousel.owl-drag .owl-item {
+  touch-action: pan-y !important;
+  -ms-touch-action: pan-y !important;
 }
 
 .owl-carousel .owl-item {
