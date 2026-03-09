@@ -9731,6 +9731,7 @@ h5,
 
 .owl-carousel {
   position: relative;
+  touch-action: pan-y;
 }
 
 .owl-carousel .owl-item {
