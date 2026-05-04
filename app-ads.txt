@@ -243,6 +243,7 @@ advanttechnology.com,3323424299,RESELLER
 advanttechnology.com,3879160930,RESELLER
 advanttechnology.com,8764104457,RESELLER
 advertising.com,23089,RESELLER
+advertising.com,28246,reseller
 advertising.com,28605,RESELLER
 advertising.com,28764,RESELLER
 advertising.com,28886,RESELLER
@@ -319,6 +320,7 @@ algorix.co,60204,RESELLER,5b394c12fea27a1d
 algorix.co,60206,RESELLER,5b394c12fea27a1d
 algorix.co,60367,RESELLER,5b394c12fea27a1d
 algorix.co,60444,RESELLER,5b394c12fea27a1d
+algorix.co,604547,RESELLER,5b394c12fea27a1d
 algorix.co,604550,RESELLER
 algorix.co,604550,RESELLER,5b394c12fea27a1d
 algorix.co,604553,DIRECT,5b394c12fea27a1d
@@ -651,6 +653,7 @@ blueseasx.com,203613,RESELLER,7998eac5087f6110
 blueseasx.com,203620,RESELLER,7998eac5087f6110
 blueseasx.com,203625,RESELLER
 blueseasx.com,203670,RESELLER,7998eac5087f6110
+blueseasx.com,203723,RESELLER,7998eac5087f6110
 blueseasx.com,204037,RESELLER,7998eac5087f6110
 blueseasx.com,232670,RESELLER,7998eac5087f6110
 bluexad.ai,1947919201712738304,reseller
@@ -690,6 +693,7 @@ carbonatix.com,14840966,RESELLER
 carbonatix.com,176915265,DIRECT
 carbonatix.com,176915265,RESELLER
 carliba.io,184081,RESELLER
+carliba.io,184101,RESELLER
 cas.ai,b2659234,DIRECT
 castify.ai,1210421,RESELLER
 castify.ai,1271351,RESELLER
@@ -839,6 +843,7 @@ conversantmedia.com,101057,RESELLER,03113cd04947736d
 conversantmedia.com,40881,RESELLER,03113cd04947736d
 conversantmedia.com,41024,RESELLER,03113cd04947736d
 conversantmedia.com,41784,RESELLER,03113cd04947736d
+copper6.com,318742,RESELLER
 copper6.com,764118,RESELLER
 copper6.com,766114,RESELLER
 copper6.com,766134,RESELLER
@@ -1268,6 +1273,7 @@ indexexchange.com,199442,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,211341,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,214183,RESELLER,50b1c356f2c5c8fc
 indexexchange.com,214429,RESELLER,50b1c356f2c5c8fc
+indexexchange.com,215209,reseller,50b1c356f2c5c8fc
 inmobi.com,062029933580429f9920bad476d8d70a,RESELLER,83e75a7ae333ca9d
 inmobi.com,09f53411034d4d608cd6230490d46fff,RESELLER,83e75a7ae333ca9d
 inmobi.com,0c2fa8130b884712913cc0bfc84e1c31,RESELLER,83e75a7ae333ca9d
@@ -1480,6 +1486,7 @@ lijit.com,571745,RESELLER,fafdf38b16bf6b2b
 lijit.com,582899,RESELLER,fafdf38b16bf6b2b
 limpid.tv,203715,RESELLER
 limpid.tv,203721,RESELLER
+limpid.tv,203726,RESELLER,d5bc086179635df0
 limpid.tv,920937,RESELLER
 lkqd.net,1100058249,DIRECT,59c49fa9598a0117
 lkqd.net,1100058249,RESELLER,59c49fa9598a0117
@@ -1923,6 +1930,7 @@ playdigo.com,1987,RESELLER
 playdigo.com,1988,RESELLER
 playdigo.com,1988,RESELLER,92011346d63d3c30
 playdigo.com,1993,RESELLER
+playdigo.com,2010,reseller
 playdigo.com,2036,RESELLER,92011346d63d3c30
 playdigo.com,2041,RESELLER
 playdigo.com,2041,RESELLER,92011346d63d3c30
@@ -2152,6 +2160,7 @@ pubmatic.com,166180,RESELLER,5d62403b186f2ace
 pubmatic.com,166200,RESELLER,5d62403b186f2ace
 pubmatic.com,166238,RESELLER,5d62403b186f2ace
 pubmatic.com,166270,RESELLER,5d62403b186f2ace
+pubmatic.com,166298,RESELLER,5d62403b186f2ace
 pubmatic.com,166331,RESELLER,5d62403b186f2ace
 pubmatic.com,166335,RESELLER,5d62403b186f2ace
 pubmatic.com,166397,RESELLER,5d62403b186f2ace
@@ -2493,9 +2502,11 @@ sharethrough.com,23830661,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,249198ac,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,26VgE1nN,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,2f18331a,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,3160,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,3232,reseller,d53b998a7bd4ecd2
 sharethrough.com,3439,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,3713,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,3817,reseller,d53b998a7bd4ecd2
 sharethrough.com,3964,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,3blZyYks,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,4024,RESELLER,d53b998a7bd4ecd2
@@ -2505,6 +2516,7 @@ sharethrough.com,4456,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,4483,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,4568,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,4762,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,4883,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,5015,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,5026,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,5294,RESELLER,d53b998a7bd4ecd2
@@ -2765,6 +2777,7 @@ smilewanted.com,5740,RESELLER
 smilewanted.com,5839,RESELLER
 smilewanted.com,5848,RESELLER
 smilewanted.com,5869,RESELLER
+smilewanted.com,6022,reseller
 smoot.ai,100047,RESELLER
 smoot.ai,100104,RESELLER
 smoot.ai,100116,RESELLER
