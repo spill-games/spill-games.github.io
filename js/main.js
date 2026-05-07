@@ -348,20 +348,20 @@ AOS.init({
 	});
 
 	// Fetch and display privacy policy version
-	var fetchPrivacyPolicyVersion = function() {
+	var fetchPrivacyPolicyVersion = function () {
 		var versionDisplay = $('#privacy-policy-version-display');
 		if (versionDisplay.length > 0) {
 			$.ajax({
 				url: 'data/privacy_policy_version.txt',
 				dataType: 'text',
 				cache: false,
-				success: function(data) {
+				success: function (data) {
 					var version = data.trim();
 					if (version) {
-						versionDisplay.text('(v' + version + ')');
+						versionDisplay.text('v' + version);
 					}
 				},
-				error: function(jqXHR, textStatus, errorThrown) {
+				error: function (jqXHR, textStatus, errorThrown) {
 					console.error('Failed to load privacy policy version:', textStatus, errorThrown);
 				}
 			});
