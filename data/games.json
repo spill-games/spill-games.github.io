@@ -5,6 +5,7 @@
         "title_part1": "Sticker by Number",
         "title_part2": "- Color Book",
         "breadcrumb": "Sticker by Number",
+        "live": true,
         "description": "Sticker by Number is a fun and relaxing coloring game that combines color by number with puzzle-solving. Find and match stickers to the correct spots to reveal stunning breathtaking landscapes, cute animals, and vibrant patterns. Enjoy a stress relief experience that’s both creative and fun for all ages!",
         "how_to_play": [
             "Find and match stickers to the correct spots in the gameplay arena.",
@@ -29,6 +30,7 @@
         "title_part1": "Zen Math",
         "title_part2": "Crossword",
         "breadcrumb": "Zen Math",
+        "live": true,
         "description": "Challenge your mind with Zen Math Crossword, a unique puzzle game that blends arithmetic with classic crosswords! Solve equations, tackle fractions, and master various mathematical operations to fill the grid. Perfect for students and adults, this game makes learning math fun and engaging.",
         "how_to_play": [
             "Solve mathematical problems using addition, subtraction, multiplication, and division.",
@@ -53,6 +55,7 @@
         "title_part1": "Cozy Finds:",
         "title_part2": "Hidden Objects",
         "breadcrumb": "Cozy Finds",
+        "live": true,
         "description": "Cozy finds is a relaxing hidden objects game made for quiet moments and calm play. Explore warm, beautifully illustrated scenes and enjoy seek and find puzzles at your own pace. Each level is a different adventure perfectly designed to keep you engrossed and engaged. Find a cozy corner and play cozy finds and discover hidden objects. No timers. No pressure. Just cozy discovery.",
         "how_to_play": [
             "Search the Scene: Explore beautifully illustrated environments filled with carefully hidden objects.",
@@ -78,6 +81,7 @@
         "title_part1": "Bird Rescue",
         "title_part2": "Jam: Sort Puzzle",
         "breadcrumb": "Bird Rescue",
+        "live": true,
         "description": "In this rescue block puzzle game, you need to complete brain teasing parking challenges, shoot bubbles down, solve the bird puzzle, and defeat the evil crocodile. This exciting rescue adventure is perfect for players of all ages who enjoy quick reflex games, puzzle challenges, and survival adventures.",
         "how_to_play": [
             "Tap and slide the ammo box that matches the bubbles color to fire the cannon and free the birds.",
@@ -102,6 +106,7 @@
         "title_part1": "Grill Master:",
         "title_part2": "Food Sort Puzzle",
         "breadcrumb": "Grill Master",
+        "live": true,
         "description": "Fire up the grill and get your brain sizzling! Grill Master: Food Sort Puzzle combines the satisfaction of a BBQ with the challenge of a classic sorting logic game. Sort the food items until every skewer or plate holds only one type of delicious treat.",
         "how_to_play": [
             "Tap to move food items from one grill station to another.",
@@ -120,5 +125,32 @@
         "url": "game.html#id=gms",
         "appStore": "https://apps.apple.com/us/app/sticker-by-number-color-book/id6741476723",
         "playStore": "https://play.google.com/store/apps/details?id=com.spill.grill.master.sort.food.games.cooking.match.puzzle"
+    },
+    {
+        "id": "ccw",
+        "title": "Cozy Crossword",
+        "title_part1": "Cozy",
+        "title_part2": "Crossword",
+        "breadcrumb": "Cozy Crossword",
+        "live": false,
+        "description": "Relax with Cozy Crossword, a warm, casual word puzzle where every clue is a cozy little challenge. Fill the grid from a bank of letters, solve picture clues, and unwind one word at a time. No timers, no pressure just satisfying wordplay and a fresh Daily Challenge to keep your streak going.",
+        "how_to_play": [
+            "Tap letters from the bank to fill the crossword grid.",
+            "Read each clue and place the right word across and down.",
+            "Solve picture clues and use hints when you get stuck.",
+            "Complete the grid to clear the level and keep your streak alive."
+        ],
+        "key_features": [
+            "Cozy, relaxing word puzzles no timers, no stress.",
+            "Fresh Daily Challenge every day.",
+            "Fun picture clues alongside classic crossword clues.",
+            "Helpful hints and swaps to keep you moving.",
+            "Progressive difficulty for casual and seasoned solvers."
+        ],
+        "feature_graphic": "images/fg_ccw.png",
+        "icon": "images/ccw.png",
+        "url": "game.html#id=ccw",
+        "appStore": "https://apps.apple.com/us/app/id6789578596",
+        "playStore": "https://play.google.com/store/apps/details?id=com.spill.cozy.crossword.puzzles"
     }
 ]
