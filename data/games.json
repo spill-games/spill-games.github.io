@@ -120,5 +120,29 @@
         "url": "game.html#id=gms",
         "appStore": "https://apps.apple.com/us/app/sticker-by-number-color-book/id6741476723",
         "playStore": "https://play.google.com/store/apps/details?id=com.spill.grill.master.sort.food.games.cooking.match.puzzle"
+    },{
+        "id": "cfd",
+        "title": "Cozy Finds: Differences",
+        "title_part1": "Cozy Finds:",
+        "title_part2": "Differences",
+        "breadcrumb": "Cozy Finds",
+        "description": "Cozy finds is a relaxing hidden objects game made for quiet moments and calm play. Explore warm, beautifully illustrated scenes and enjoy seek and find puzzles at your own pace. Each level is a different adventure perfectly designed to keep you engrossed and engaged. Find a cozy corner and play cozy finds and discover hidden objects. No timers. No pressure. Just cozy discovery.",
+        "how_to_play": [
+            "Search the Scene: Explore beautifully illustrated environments filled with carefully hidden objects.",
+            "Find Hidden Objects: Look closely and tap on each hidden object from your list to complete the level.",
+            "Zoom for Detail: Pinch and Zoom to focus and find tricky hidden objects.",
+            "Use Hints When Needed: Stuck on a tricky object? Use helpful hints to guide you."
+        ],
+        "key_features": [
+            "Cozy hidden object scenes to explore",
+            "Play at your own pace no stress, no rush",
+            "Soft visuals and soothing atmosphere",
+            "Perfect for winding down or casual play"
+        ],
+        "feature_graphic": "images/fg_cfd.png",
+        "icon": "images/cfd.png",
+        "url": "game.html#id=cfd",
+        "appStore": "https://apps.apple.com/us/app/cozy-finds-hidden-objects/id6758983024",
+        "playStore": "https://play.google.com/store/apps/details?id=com.spill.cozy.finds.hidden.objects"
     }
 ]
