@@ -19,8 +19,10 @@ document.addEventListener('DOMContentLoaded', function () {
     fetch('data/games.json')
         .then(response => response.json())
         .then(games => {
-            renderGallery(games);
-            renderHomeSlider(games);
+            // Only show games flagged live (missing flag = live for backwards-compat)
+            const liveGames = games.filter(game => game.live !== false);
+            renderGallery(liveGames);
+            renderHomeSlider(liveGames);
         })
         .catch(error => console.error('Error loading games:', error));
 
