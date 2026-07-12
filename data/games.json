@@ -131,6 +131,7 @@
         "title_part1": "Cozy Finds:",
         "title_part2": "Differences",
         "breadcrumb": "Cozy Finds",
+        "live": false,
         "description": "Cozy finds is a relaxing hidden objects game made for quiet moments and calm play. Explore warm, beautifully illustrated scenes and enjoy seek and find puzzles at your own pace. Each level is a different adventure perfectly designed to keep you engrossed and engaged. Find a cozy corner and play cozy finds and discover hidden objects. No timers. No pressure. Just cozy discovery.",
         "how_to_play": [
             "Search the Scene: Explore beautifully illustrated environments filled with carefully hidden objects.",
@@ -147,8 +148,8 @@
         "feature_graphic": "images/fg_cfd.png",
         "icon": "images/cfd.png",
         "url": "game.html#id=cfd",
-        "appStore": "https://apps.apple.com/us/app/cozy-finds-hidden-objects/id6758983024",
-        "playStore": "https://play.google.com/store/apps/details?id=com.spill.cozy.finds.hidden.objects"
+        "appStore": "https://apps.apple.com/us/app/cozy-finds-differences/id6789823113",
+        "playStore": "https://play.google.com/store/apps/details?id=com.spill.cozy.finds.differences"
     },
     {
         "id": "ccw",
@@ -176,5 +177,32 @@
         "url": "game.html#id=ccw",
         "appStore": "https://apps.apple.com/us/app/id6789578596",
         "playStore": "https://play.google.com/store/apps/details?id=com.spill.cozy.crossword.puzzles"
+    },
+    {
+        "id": "ttg",
+        "title": "Tap Tap Go: Escape Puzzle",
+        "title_part1": "Tap Tap Go:",
+        "title_part2": "Escape Puzzle",
+        "breadcrumb": "Tap Tap Go",
+        "live": false,
+        "description": "Tap Tap Go is a relaxing yet challenging arrow puzzle game that puts your observation and logical thinking to the test. Each board is filled with arrows pointing in different directions. Your goal is to identify the arrows with a clear path and tap them in the correct order. Every arrow you remove can open a new escape route, but one wrong move may leave the remaining arrows blocked. With simple controls, satisfying animations, and increasingly complex puzzles, Tap Tap Go offers a rewarding brain-training experience that is easy to learn and difficult to master.",
+        "how_to_play": [
+            "Look carefully at the direction of every arrow.",
+            "Find an arrow that has nothing blocking its path.",
+            "Tap the arrow to send it flying off the board.",
+            "Removing an arrow will create space for other arrows to escape.",
+            "Continue choosing the correct arrows until the entire board is cleared."
+        ],
+        "key_features": [
+            "Simple Tap Controls.",
+            "Challenging Arrow Puzzles.",
+            "Hundreds of Unique Levels.",
+            "Play at Your Own Pace."
+        ],
+        "feature_graphic": "images/fg_ttg.png",
+        "icon": "images/ttg.png",
+        "url": "game.html#id=ttg",
+        "appStore": "https://apps.apple.com/us/app/tap-tap-go-escape-puzzle/id6789107216",
+        "playStore": "https://play.google.com/store/apps/details?id=com.spill.taptapgo.arrows.puzzle.games"
     }
 ]
