@@ -132,18 +132,20 @@
         "title_part2": "Differences",
         "breadcrumb": "Cozy Finds",
         "live": false,
-        "description": "Cozy finds is a relaxing hidden objects game made for quiet moments and calm play. Explore warm, beautifully illustrated scenes and enjoy seek and find puzzles at your own pace. Each level is a different adventure perfectly designed to keep you engrossed and engaged. Find a cozy corner and play cozy finds and discover hidden objects. No timers. No pressure. Just cozy discovery.",
+        "description": "Welcome, cozy gamers! Put your observation skills to the test in Cozy Finds: Differences and discover hidden differences in beautiful hand-crafted scenes. Unwind after a long day by playing in a stress-free environment without the pressure of timers or harsh penalties. Put your detection skills to the test and see how many different hidden differences you can spot in two seemingly identical images.",
         "how_to_play": [
-            "Search the Scene: Explore beautifully illustrated environments filled with carefully hidden objects.",
-            "Find Hidden Objects: Look closely and tap on each hidden object from your list to complete the level.",
-            "Zoom for Detail: Pinch and Zoom to focus and find tricky hidden objects.",
-            "Use Hints When Needed: Stuck on a tricky object? Use helpful hints to guide you."
+            "Compare two pictures carefully",
+            "Find the difference between seemingly identical images",
+            "Train your attention to detail",
+            "Complete levels and unlock new scenes",
+            "Use hints when you need a helping hand"
         ],
         "key_features": [
-            "Cozy hidden object scenes to explore",
-            "Play at your own pace no stress, no rush",
-            "Soft visuals and soothing atmosphere",
-            "Perfect for winding down or casual play"
+            "FREE TO PLAY: Enjoy our cozy puzzles for free without spending a single dime. No hidden fees, just satisfying gameplay",
+            "STRESS BUSTER: Calming music and no timers ensure you can relax and unwind as you search for hidden differences in beautiful artwork",
+            "PERFECT FOR ALL AGES: It's not only a spot the difference game for adults, you can enjoy a wonderful time with family by playing with your kids",
+            "BEAUTIFUL ARTWORK: Get a sense of accomplishment as you progress through charming scenes and carefully crafted levels designed to provide a rewarding experience.",
+            "SIMPLE RULES AND GAMEPLAY: Scan seemingly identical pictures and spot the hidden differences. Easy to pick up, hard to put down!"
         ],
         "feature_graphic": "images/fg_cfd.png",
         "icon": "images/cfd.png",
