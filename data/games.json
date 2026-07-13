@@ -159,7 +159,7 @@
         "title_part1": "Cozy",
         "title_part2": "Crossword",
         "breadcrumb": "Cozy Crossword",
-        "live": false,
+        "live": true,
         "description": "Relax with Cozy Crossword, a warm, casual word puzzle where every clue is a cozy little challenge. Fill the grid from a bank of letters, solve picture clues, and unwind one word at a time. No timers, no pressure just satisfying wordplay and a fresh Daily Challenge to keep your streak going.",
         "how_to_play": [
             "Tap letters from the bank to fill the crossword grid.",
