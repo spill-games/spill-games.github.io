@@ -644,6 +644,7 @@ bigo.sg,130,RESELLER
 bigo.sg,136,RESELLER
 bigo.sg,143,RESELLER
 bigo.sg,196,RESELLER
+bigo.sg,3litcjrz1j,DIRECT
 bigo.sg,885,RESELLER
 bizzclick.com,30,RESELLER,7e936b1feafdaa61
 blasto.ai,354,RESELLER
