@@ -186,7 +186,7 @@
         "title_part1": "Tap Tap Go:",
         "title_part2": "Escape Puzzle",
         "breadcrumb": "Tap Tap Go",
-        "live": false,
+        "live": true,
         "description": "Tap Tap Go is a relaxing yet challenging arrow puzzle game that puts your observation and logical thinking to the test. Each board is filled with arrows pointing in different directions. Your goal is to identify the arrows with a clear path and tap them in the correct order. Every arrow you remove can open a new escape route, but one wrong move may leave the remaining arrows blocked. With simple controls, satisfying animations, and increasingly complex puzzles, Tap Tap Go offers a rewarding brain-training experience that is easy to learn and difficult to master.",
         "how_to_play": [
             "Look carefully at the direction of every arrow.",
