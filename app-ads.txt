@@ -926,6 +926,7 @@ criteo.com,TERO1F,RESELLER,35d5010d7789b49d
 criteo.com,TVX1JK,RESELLER,35d5010d7789b49d
 criteo.com,WS2D8N,RESELLER,35d5010d7789b49d
 criteo.com,b-062019,RESELLER,9fac4a4a87c2a44f
+datacygnal.io,14481346,RESELLER
 dauup.com,34101,RESELLER,4daba13e2b0dfd92
 dauup.com,34103,RESELLER
 dauup.com,34105,RESELLER,4daba13e2b0dfd92
@@ -1680,6 +1681,7 @@ media.net,8CU167Y53,RESELLER,818f58666cabc936
 media.net,8CU1CP7PM,RESELLER,818f58666cabc936
 media.net,8CU1FFB49,RESELLER
 media.net,8CU355VS4,RESELLER
+media.net,8CU384DSV,RESELLER,818f58666cabc936
 media.net,8CU43768M,RESELLER
 media.net,8CU47MDK1,RESELLER
 media.net,8CU47MDK1,RESELLER,818f58666cabc936
@@ -1798,6 +1800,7 @@ myfeature.tv,XmYnVLJ23ytAhfaON5n6,RESELLER
 myfeature.tv,kl45dj38781c,DIRECT
 nativo.com,5958,RESELLER,59521ca7cc5e9fee
 nativo.com,6140,RESELLER,59521ca7cc5e9fee
+nativo.com,6155,RESELLER,59521ca7cc5e9fee
 netaddiction.it,1064,RESELLER
 netaddiction.it,2037,RESELLER
 netsvision.com,9992301,RESELLER
@@ -2314,6 +2317,7 @@ pubmatic.com,167514,RESELLER,5d62403b186f2ace
 pubmatic.com,167515,RESELLER,5d62403b186f2ace
 pubmatic.com,168040,RESELLER,5d62403b186f2ace
 pubmatic.com,168196,RESELLER,5d62403b186f2ace
+pubmatic.com,168216,RESELLER,5d62403b186f2ace
 pubmatic.com,92509,RESELLER,5d62403b186f2ace
 pubmatic.com,95054,RESELLER,5d62403b186f2ace
 pubnative.net,1003601,RESELLER,d641df8625486a7b
@@ -2727,6 +2731,7 @@ sharethrough.com,vQMCuYXA,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,veuioj8F,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,wRgOcZeV,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,zMvLLpo1,RESELLER,d53b998a7bd4ecd2
+shinka.io,1000003,RESELLER,a9bd8fda17435929
 showheroes.com,6018,RESELLER
 showheroes.com,6031,RESELLER
 showheroes.com,6036,RESELLER
@@ -2753,6 +2758,7 @@ smaato.com,1100042823,RESELLER,07bcf65f187117b4
 smaato.com,1100043162,RESELLER,07bcf65f187117b4
 smaato.com,1100044045,RESELLER,07bcf65f187117b4
 smaato.com,1100044156,RESELLER,07bcf65f187117b4
+smaato.com,1100046578,RESELLER,07bcf65f187117b4
 smaato.com,1100047589,RESELLER,07bcf65f187117b4
 smaato.com,1100047713,RESELLER,07bcf65f187117b4
 smaato.com,1100049757,RESELLER,07bcf65f187117b4
@@ -3062,6 +3068,7 @@ targetbetter.com,82228,RESELLER
 targetbetter.com,T2002,RESELLER
 targetspot.com,270,RESELLER,feb28ed826dcf532
 targetspot.com,297,RESELLER,feb28ed826dcf532
+targetspot.com,480,RESELLER,feb28ed826dcf532
 taurusx.com,70079,RESELLER
 taurusx.com,70090,RESELLER
 taurusx.com,70608,RESELLER
@@ -3299,6 +3306,9 @@ triplelift.com,14800,RESELLER,6c33edb13117fd86
 triplelift.com,14809,RESELLER,6c33edb13117fd86
 triplelift.com,14819,RESELLER,6c33edb13117fd86
 triplelift.com,14819-EB,RESELLER,6c33edb13117fd86
+triplelift.com,14821,RESELLER,6c33edb13117fd86
+triplelift.com,14821-EB,RESELLER,6c33edb13117fd86
+triplelift.com,14826,RESELLER,6c33edb13117fd86
 triplelift.com,2792,RESELLER,6c33edb13117fd86
 triplelift.com,6457,RESELLER,6c33edb13117fd86
 triplelift.com,6998,RESELLER,6c33edb13117fd86
