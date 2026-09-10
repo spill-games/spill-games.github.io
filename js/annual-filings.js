@@ -19,12 +19,13 @@ document.addEventListener('DOMContentLoaded', function () {
 	var BASE_PATH = 'documents/annual-filings';
 	var FIRST_FY_START = 2024; // FY 2024-25 is the company's first filed year
 
-	// Listed in this order on the page.
+	// Listed in this order on the page. Each file name is just its title in
+	// lower case, hyphenated, with the apostrophe dropped.
 	var DEFAULT_DOCUMENTS = [
 		{ file: 'annual-report.pdf', title: 'Annual Report' },
-		{ file: 'directors-report.pdf', title: 'Board of Directors’ Report' },
-		{ file: 'audit-report.pdf', title: 'Independent Auditor’s Report' },
-		{ file: 'financial-statements.pdf', title: 'Audited Financial Statements' }
+		{ file: 'directors-report.pdf', title: 'Director’s Report' },
+		{ file: 'audit-report.pdf', title: 'Audit Report' },
+		{ file: 'financial-statement.pdf', title: 'Financial Statement' }
 	];
 
 	var filterEl = document.getElementById('filing-filter');
