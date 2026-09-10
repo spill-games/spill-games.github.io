@@ -1,2 +1,6 @@
 User-agent: *
 Allow: /
+
+# Annual filings - unlisted, not for indexing
+Disallow: /annualfilings.html
+Disallow: /documents/annual-filings/

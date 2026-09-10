@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Annual Filings - Spill Games</title>
+	<meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
+	<meta name="googlebot" content="noindex, nofollow">
+	<meta name="author" content="Spill Games" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nothing+You+Could+Do" rel="stylesheet">
+
+	<link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+	<link rel="stylesheet" href="css/animate.css">
+
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<link rel="stylesheet" href="css/aos.css">
+
+	<link rel="stylesheet" href="css/ionicons.min.css">
+
+	<link rel="stylesheet" href="css/flaticon.css">
+	<link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="css/style.css">
+	<style>
+		body {
+			background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(images/texture.png) no-repeat fixed !important;
+			background-size: cover !important;
+		}
+
+		.filings-intro {
+			max-width: 720px;
+			color: rgba(255, 255, 255, 0.6);
+		}
+
+		/* Year filter */
+		.filing-filter {
+			display: flex;
+			align-items: center;
+			flex-wrap: wrap;
+			gap: 14px;
+			margin: 35px 0 5px;
+		}
+
+		.filing-filter label {
+			margin: 0;
+			color: #fff;
+			font-family: "Josefin Sans", Arial, sans-serif;
+			font-size: 15px;
+		}
+
+		.filing-select {
+			appearance: none;
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			min-width: 190px;
+			padding: 10px 46px 10px 16px;
+			color: #fff;
+			font-family: "Poppins", Arial, sans-serif;
+			font-size: 15px;
+			cursor: pointer;
+			border: 1px solid rgba(250, 197, 100, 0.35);
+			border-radius: 4px;
+			background-color: rgba(255, 255, 255, 0.05);
+			background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath fill='%23fac564' d='M0 0h10L5 6z'/%3E%3C/svg%3E");
+			background-repeat: no-repeat;
+			background-position: right 16px center;
+			background-size: 10px 6px;
+			transition: 0.3s all ease;
+		}
+
+		.filing-select:hover {
+			border-color: rgba(250, 197, 100, 0.7);
+		}
+
+		.filing-select:focus {
+			outline: none;
+			border-color: #fac564;
+			box-shadow: 0 0 0 3px rgba(250, 197, 100, 0.15);
+		}
+
+		.filing-select option {
+			background: #121618;
+			color: #fff;
+		}
+
+		/* Document list */
+		.filing-list {
+			list-style: none;
+			margin: 25px 0 0;
+			padding: 0;
+		}
+
+		.filing-list:not(:empty) {
+			border-top: 1px solid rgba(255, 255, 255, 0.08);
+		}
+
+		.filing-item {
+			display: flex;
+			align-items: center;
+			flex-wrap: wrap;
+			gap: 14px;
+			padding: 18px 6px;
+			border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+			transition: 0.3s background ease;
+		}
+
+		.filing-item:hover {
+			background: rgba(255, 255, 255, 0.025);
+		}
+
+		.filing-item-link,
+		.filing-item-link:hover,
+		.filing-item-link:focus {
+			display: flex;
+			align-items: center;
+			gap: 16px;
+			flex: 1 1 240px;
+			min-width: 0;
+			color: #fff;
+			text-decoration: none;
+		}
+
+		.filing-item-icon {
+			flex: 0 0 auto;
+			font-size: 26px;
+			line-height: 1;
+			color: #fac564;
+		}
+
+		.filing-item-text {
+			display: flex;
+			flex-direction: column;
+			min-width: 0;
+			color: inherit;
+		}
+
+		.filing-item-title {
+			font-family: "Josefin Sans", Arial, sans-serif;
+			font-size: 17px;
+			line-height: 1.4;
+			color: #fff;
+			transition: 0.3s color ease;
+		}
+
+		.filing-item-link:hover .filing-item-title,
+		.filing-item-link:focus .filing-item-title {
+			color: #fac564;
+		}
+
+		.filing-item-meta {
+			font-size: 11px;
+			letter-spacing: 0.08em;
+			text-transform: uppercase;
+			color: rgba(255, 255, 255, 0.4);
+		}
+
+		.filing-item-download,
+		.filing-item-download:hover,
+		.filing-item-download:focus {
+			flex: 0 0 auto;
+			display: inline-flex;
+			align-items: center;
+			gap: 9px;
+			padding: 8px 18px;
+			font-size: 13px;
+			letter-spacing: 0.04em;
+			text-transform: uppercase;
+			text-decoration: none;
+			border: 1px solid rgba(250, 197, 100, 0.5);
+			border-radius: 4px;
+			color: #fac564;
+			transition: 0.3s all ease;
+		}
+
+		.filing-item-download:hover,
+		.filing-item-download:focus {
+			background: #fac564;
+			border-color: #fac564;
+			color: #000;
+		}
+
+		.filing-status {
+			padding: 22px 6px;
+			font-size: 14px;
+			color: rgba(255, 255, 255, 0.45);
+		}
+
+		.filing-note {
+			margin-top: 30px;
+			font-size: 13px;
+			color: rgba(255, 255, 255, 0.35);
+		}
+
+		@media (max-width: 575.98px) {
+			.filing-item-download {
+				width: 100%;
+				justify-content: center;
+			}
+		}
+	</style>
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+		<div class="container">
+			<a class="navbar-brand d-flex align-items-center" href="index.html" style="gap: 10px;">
+				<img src="images/logo.png" alt="Spill Games" height="50">
+				<span
+					style="font-family: 'Rajdhani', sans-serif; font-weight: 700; font-size: 24px; color: white; letter-spacing: 1px; margin-top: 5px;">SPILL
+					GAMES</span>
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav"
+				aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="oi oi-menu"></span> Menu
+			</button>
+			<div class="collapse navbar-collapse" id="ftco-nav">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+					<li class="nav-item"><a href="index.html#welcome" class="nav-link">Games</a></li>
+					<li class="nav-item"><a href="index.html#team" class="nav-link">About Us</a></li>
+					<li class="nav-item"><a href="index.html#contact" class="nav-link">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<section class="ftco-section pt-5 mt-5">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="heading-section mb-4">
+						<h2 class="mb-3">Annual <span>Filings</span></h2>
+						<p class="filings-intro mb-0">Statutory annual filings of Spillvoy Gaming Private Limited
+							(CIN: U58203KA2024PTC190949). The Annual Report is the complete document; the
+							directors' report, auditor's report and financial statements are also published
+							separately below.</p>
+					</div>
+
+					<div class="filing-filter" id="filing-filter" hidden>
+						<label for="filing-year">Filter by financial year:</label>
+						<select class="filing-select" id="filing-year"></select>
+					</div>
+
+					<p class="filing-status" id="filing-status" role="status" aria-live="polite" hidden></p>
+
+					<ul class="filing-list" id="filing-list"></ul>
+
+					<p class="filing-note">For any query on these filings, write to
+						<a href="mailto:contact@spill.games">contact@spill.games</a>.
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<footer class="ftco-footer ftco-section py-4 bg-dark">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<p class="mb-0 text-white-50">
+						Copyright &copy;
+						<script>document.write(new Date().getFullYear());</script> Spill Games. All rights reserved. |
+						<a href="privacy.html" class="text-white-50 text-decoration-none">Privacy Policy</a> |
+						<a href="tos.html" class="text-white-50 text-decoration-none">Terms of Service</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+
+
+	<!-- loader -->
+	<div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px">
+			<circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" />
+			<circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10"
+				stroke="#F96D00" />
+		</svg></div>
+
+
+	<script src="js/jquery.min.js"></script>
+	<script src="js/jquery-migrate-3.0.1.min.js"></script>
+	<script src="js/popper.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.easing.1.3.js"></script>
+	<script src="js/jquery.waypoints.min.js"></script>
+	<script src="js/jquery.stellar.min.js"></script>
+	<script src="js/owl.carousel.min.js"></script>
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/aos.js"></script>
+	<script src="js/jquery.animateNumber.min.js"></script>
+	<script src="js/scrollax.min.js"></script>
+	<script src="js/main.js"></script>
+	<script src="js/annual-filings.js"></script>
+
+</body>
+
+</html>
