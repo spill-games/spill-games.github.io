@@ -157,8 +157,9 @@
 			<div class="row no-gutters d-md-flex justify-content-center align-items-center py-5">
 				<div class="col-md-8 appointment ftco-animate">
 					<h3 class="mb-3 text-center">Contact Us</h3>
-					<form action="mailto:contact@spill.games" method="POST" enctype="text/plain"
-						class="appointment-form">
+					<form class="appointment-form" onsubmit="event.preventDefault();
+						location.href = 'mailto:contact@spill.games?subject=' + encodeURIComponent('Contact from ' + this.Name.value)
+							+ '&body=' + encodeURIComponent(this.Message.value + '\n\n' + this.Name.value + ' <' + this.Email.value + '>');">
 						<div class="d-md-flex">
 							<div class="form-group w-100 pr-md-2">
 								<input type="text" name="Name" class="form-control" placeholder="Name" required>
