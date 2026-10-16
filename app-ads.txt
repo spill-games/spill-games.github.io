@@ -1501,6 +1501,7 @@ instal.com,5a59277b-91e8-4b5c-a4b5-ee9a7a6c0644,RESELLER
 insticator.com,4022291c-df72-416d-98ba-ab42fb0696d3,RESELLER,b3511ffcafb23a32
 insticator.com,a4eb11dd-9bc5-4d77-9877-71f69dcfc08f,RESELLER,b3511ffcafb23a32
 insticator.com,cadff748-965f-4393-a76e-a8f902512bad,RESELLER,b3511ffcafb23a32
+insticator.com,e2d3e33c-9911-477a-8ae2-f059870c67c0,RESELLER,b3511ffcafb23a32
 instreamatic.com,78,RESELLER
 intenze.co,200186,RESELLER
 intenze.co,200187,DIRECT
